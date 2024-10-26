@@ -16,12 +16,16 @@ This repository provides replication codes and raw input data to replicate the r
 - `VBapprox_VARLenza_simv2.m`: VAR-CVD
 - `VBapprox_VAR_homo.m`: VAR
 - `data.mat`: the 180-variable dataset constructed using FRED-QD dataset
-- `ccmm_data.mat`: the 18-variable dataset used by CCMM
+- `ccmm_data.mat`: the 18-variable dataset used by Carriero et al. (2024)
   
 In addition, this repository contains the following subdirectory:
 - `Utility`: all the useful functions as well as functions for estimating marginal likelihood
 
 # Disclaimer
+This code is free to use for academic purposes only, provided that the paper is cited as:
+
+Chan, J. C., Yu, X., & Zhang, W. (2024). Bayesian Model Comparison for Large Bayesian VARs after the COVID-19 Pandemic. Available at SSRN 4913626.
+
 This code comes without technical support of any kind. Under no circumstances will the author be held responsible for any use (or misuse) of this code in any way.
 
 # References
