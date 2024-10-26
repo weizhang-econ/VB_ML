@@ -15,10 +15,15 @@ This repository provides replication codes and raw input data to replicate the r
 - `VBapprox_VARSVt_sim.m`: VAR-SVt
 - `VBapprox_VARLenza_simv2.m`: VAR-CVD
 - `VBapprox_VAR_homo.m`: VAR
-- `data.mat`: dataset used
+- `data.mat`: the 180-variable dataset constructed using FRED-QD dataset
+- `ccmm_data.mat`: the 18-variable dataset used by CCMM
   
 In addition, this repository contains the following subdirectory:
 - `Utility`: all the useful functions as well as functions for estimating marginal likelihood
 
 # Disclaimer
 This code comes without technical support of any kind. Under no circumstances will the author be held responsible for any use (or misuse) of this code in any way.
+
+# References
+Carriero, A., Clark, T. E., Marcellino, M., & Mertens, E. (2024). Addressing COVID-19 outliers in BVARs with stochastic volatility. Review of Economics and Statistics, 106(5), 1403-1417.
+
