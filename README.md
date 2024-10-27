@@ -16,7 +16,7 @@ This repository provides replication codes and raw input data to replicate the r
 - `VBapprox_VARLenza_simv2.m`: VAR-CVD
 - `VBapprox_VAR_homo.m`: VAR
 - `data.mat`: the 180-variable dataset constructed using FRED-QD dataset
-- `ccmm_data.mat`: the 18-variable dataset used by Carriero et al. (2024)
+- `ccmm_data.mat`: the 16-variable dataset used by Carriero et al. (2024)
   
 In addition, this repository contains the following subdirectory:
 - `Utility`: all the useful functions as well as functions for estimating marginal likelihood
