@@ -8,13 +8,13 @@ by
 This paper is under review and it can be found on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913626).
 
 # Overview
-This repository provides replication codes and raw input data to replicate the results shown in our paper. All core scripts are in the main directory:
+This repository provides replication codes and input data to replicate the results shown in the application section of our paper. All core scripts are in the main directory:
 - `Estimation.m`: the master file
-- `VBapprox_VARSVminn_redu.m`: VAR-SV
-- `VBapprox_VARSVO_sim.m`: VAR-SVO
-- `VBapprox_VARSVt_sim.m`: VAR-SVt
-- `VBapprox_VARLenza_simv2.m`: VAR-CVD
-- `VBapprox_VAR_homo.m`: VAR
+- `VBapprox_VARSVminn_redu.m`: for VAR-SV model
+- `VBapprox_VARSVO_sim.m`: for VAR-SVO model
+- `VBapprox_VARSVt_sim.m`: for VAR-SVt model
+- `VBapprox_VARLenza_simv2.m`: for VAR-CVD model
+- `VBapprox_VAR_homo.m`: for VAR with homoskedasticity
 - `data.mat`: the 180-variable dataset constructed using FRED-QD dataset
 - `ccmm_data.mat`: the 16-variable dataset used by Carriero et al. (2024)
   
