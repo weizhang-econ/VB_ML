@@ -5,7 +5,7 @@ by
 - Xuewen Yu (Fudan University)
 - Wei Zhang (Purdue University)
 
-This paper is in revision at Journal of Econometrics, Special Issue. It can be found on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913626).
+This paper can be found on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913626).
 
 # Overview
 This repository provides replication codes and input data to replicate the results shown in the application section of our paper. All core scripts are in the main directory:
